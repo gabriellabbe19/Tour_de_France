@@ -1,0 +1,20 @@
+{
+  "cols": [
+    { "km": 42.1, "nom": "Côte des Trois Ponts", "categorie": "3" },
+    { "km": 63.1, "nom": "Col de la Serrat", "categorie": "HC" },
+    { "km": 100.1, "nom": "Côte de Peyraque", "categorie": "3" },
+    { "km": 119.1, "nom": "Montée de l'Aiguille", "categorie": "HC" }
+  ],
+  "localites": [
+    { "km": 0.0, "nom": "Val de Luc" },
+    { "km": 43.5, "nom": "Les Trois Ponts" },
+    { "km": 69.0, "nom": "Bourg-sur-Adour" },
+    { "km": 105.5, "nom": "Peyraque" }
+  ],
+  "sprints": [
+    { "km": 88.0, "nom": "Sprint d'Ordiège" }
+  ],
+  "points": [
+    { "km": 80.0, "nom": "Ravitaillement" }
+  ]
+}
